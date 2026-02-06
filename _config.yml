@@ -1,0 +1,43 @@
+# Site Settings
+title: Sand Dollar Technology
+email: contact@sanddollartechnology.com
+description: >-
+  Bridging the gap from vibe code to production in Azure. 
+  We transform innovative AI ideas into robust, scalable cloud solutions.
+baseurl: ""
+url: "https://sanddollartechnology.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Services
+    url: /services
+  - title: Contact
+    url: /contact
+
+# Social Links
+social:
+  github: sanddollartechnology
+  linkedin: sand-dollar-technology
+  twitter: sanddollartech
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
