@@ -4,8 +4,8 @@ email: contact@sanddollartechnology.com
 description: >-
   Bridging the gap from vibe code to production in Azure. 
   We transform innovative AI ideas into robust, scalable cloud solutions.
-baseurl: ""
-url: "https://sanddollartechnology.github.io"
+baseurl: "/sanddollartechnology"
+url: "https://desinole.github.io"
 
 # Build settings
 markdown: kramdown
